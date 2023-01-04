@@ -1,4 +1,4 @@
-# Space-lens
+# Space-lens (WIP)
 
 ## Dropin replacement cleanmymac spacelens
 
